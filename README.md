@@ -42,4 +42,4 @@ This script transfers tokens from the contract to a specified address. It reads 
 - Ensure your private key is kept secure.
 - The `transfer.js` script is set to transfer tokens to the address `0x16af037878a6cAce2Ea29d39A3757aC2F6F7aac1` with an amount of `1 * 10 ** 18` tokens. Modify these values as needed.
   
-- Now visit : [Click Here](https://github.com/hassan0smp/SwissTronik-ERC20/blob/main/upload-to-github.md) to upload these codes in your github repository
+- Now visit : [Click Here](https://github.com/hassan0smp/swissTronik-PERC20/blob/main/upload-to-github.md) to upload these codes in your github repository
