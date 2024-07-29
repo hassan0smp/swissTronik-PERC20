@@ -12,14 +12,14 @@ This project demonstrates deploying a Swisstronik contract and upgrading it usin
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/hassan0smp/SwissTronik-ERC20.git
-cd SwissTronik-ERC20
+git clone https://github.com/hassan0smp/swissTronik-PERC20.git
+cd swissTronik-PERC20
 ```
 
 2. Run the setup script:
 
 ```sh
-chmod +x erc20.sh && ./erc20.sh
+chmod +x perc20.sh && ./perc20.sh
 ```
 
 
